@@ -1,0 +1,15 @@
+<div class="bx--barChart">
+  <div #chart></div>
+  <div class="bx--legendSection">
+    <app-bx-legends
+      [class]="'bx--legends bx--legends__total'"
+      [background]="'#777777'"
+    ></app-bx-legends>
+    <span class="legend-text">Total Controls</span>
+    <app-bx-legends
+      [class]="'bx--legends bx--legends__covered'"
+      [background]="'#FF537C'"
+    ></app-bx-legends>
+    <span class="legend-text">Controls Cover</span>
+  </div>
+</div>

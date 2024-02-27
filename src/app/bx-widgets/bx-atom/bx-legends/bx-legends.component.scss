@@ -1,0 +1,16 @@
+.bx--legends {
+  width: 20px;
+  height: 10px;
+  color: black;
+
+  &__total {
+    font-size: 12px;
+  }
+  &__covered {
+    margin-left: 80px;
+    font-size: 12px;
+  }
+  .label{
+   width: 100px;
+  }
+}

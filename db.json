@@ -1,0 +1,11 @@
+{
+    "chartData" : 
+    [
+        { "year": "2024", "totalControls": 130, "controlsCovered": 130 },
+        { "year": "2023", "totalControls": 110, "controlsCovered": 100 },
+        { "year": "2022", "totalControls": 100, "controlsCovered": 85 },
+        { "year": "2021", "totalControls": 80, "controlsCovered": 70 },
+        { "year": "2020", "totalControls": 70, "controlsCovered": 60 },
+        { "year": "2019", "totalControls": 60, "controlsCovered": 50 }
+    ]
+}
